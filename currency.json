@@ -1,0 +1,39 @@
+{
+  "currency": [
+    {
+      "id": 1,
+      "currencies": "CAD",
+      "value": "1",
+      "sell": "11611",
+      "buy": "11494"
+    },
+    {
+      "id": 2,
+      "currencies": "JPY",
+      "value": "100",
+      "sell": "13256",
+      "buy": "13120"
+    },
+    {
+      "id": 3,
+      "currencies": "CHF",
+      "value": "1",
+      "sell": "15873",
+      "buy": "15708"
+    },
+    {
+      "id": 4,
+      "currencies": "EUR",
+      "value": "1",
+      "sell": "17239",
+      "buy": "17066"
+    },
+    {
+      "id": 5,
+      "currencies": "USD",
+      "value": "1",
+      "sell": "14589",
+      "buy": "14444"
+    }
+  ]
+}
